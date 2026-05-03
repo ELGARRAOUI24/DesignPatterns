@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/pattern-composite/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pattern-composite/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-decorator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pattern-decorator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/patterns-template-factory-method/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/patterns-template-factory-method/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
